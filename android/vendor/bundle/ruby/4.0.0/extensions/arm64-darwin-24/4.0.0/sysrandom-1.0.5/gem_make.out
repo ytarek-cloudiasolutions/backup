@@ -1,0 +1,19 @@
+current directory: /Users/yusuf2002/flutter_complete_project/android/vendor/bundle/ruby/4.0.0/gems/sysrandom-1.0.5/ext/sysrandom
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yusuf2002/flutter_complete_project/android/vendor/bundle/ruby/4.0.0/gems/sysrandom-1.0.5/ext/sysrandom
+make -j12 DESTDIR\= sitearchdir\=./.gem.20260121-47742-w6jq5k sitelibdir\=./.gem.20260121-47742-w6jq5k clean
+
+current directory: /Users/yusuf2002/flutter_complete_project/android/vendor/bundle/ruby/4.0.0/gems/sysrandom-1.0.5/ext/sysrandom
+make -j12 DESTDIR\= sitearchdir\=./.gem.20260121-47742-w6jq5k sitelibdir\=./.gem.20260121-47742-w6jq5k
+compiling randombytes_sysrandom.c
+compiling sysrandom_ext.c
+linking shared-object sysrandom_ext.bundle
+
+current directory: /Users/yusuf2002/flutter_complete_project/android/vendor/bundle/ruby/4.0.0/gems/sysrandom-1.0.5/ext/sysrandom
+make -j12 DESTDIR\= sitearchdir\=./.gem.20260121-47742-w6jq5k sitelibdir\=./.gem.20260121-47742-w6jq5k install
+/usr/bin/install -c -m 0755 sysrandom_ext.bundle ./.gem.20260121-47742-w6jq5k
+
+current directory: /Users/yusuf2002/flutter_complete_project/android/vendor/bundle/ruby/4.0.0/gems/sysrandom-1.0.5/ext/sysrandom
+make DESTDIR\= sitearchdir\=./.gem.20260121-47742-w6jq5k sitelibdir\=./.gem.20260121-47742-w6jq5k clean
